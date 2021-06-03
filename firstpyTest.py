@@ -6,4 +6,7 @@ for i in range(2):
     a[i,j]=k
     k+=1
 print("a=",a)
+b=np.zeros((2,3))
+b=b+1
+c=a+b
   
